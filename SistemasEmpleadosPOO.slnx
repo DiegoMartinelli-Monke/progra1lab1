@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SistemasEmpleadosPOO/SistemasEmpleadosPOO.vcxproj" Id="8426ca91-f477-4a14-ba56-71f1a1317549" />
+</Solution>

@@ -1,0 +1,51 @@
+# ===== C++ / Visual Studio =====
+
+# Archivos de compilación
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.lib
+*.dll
+
+# Carpetas de compilación
+build/
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+*.bak
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# ===== No ignorar =====
+# Código fuente y archivos importantes:
+# *.cpp
+# *.h
+# *.hpp
+# *.txt
+# *.md
